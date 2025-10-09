@@ -65,9 +65,9 @@
 --- 
  
 ### 🏆 GitHub Stats 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=algolia&no-bg=true" alt="Trophies" /> 
-</p> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=algolia&no-bg=true" alt="Trophies" />
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=JitendraSingh091&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
