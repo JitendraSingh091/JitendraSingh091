@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Python, Data Science, Power BI, Machine Learning, Git & GitHub**  
 - 👥 I’m looking to collaborate on **Machine Learning and Python-based mini projects**  
 - ✍️ I’m looking for help with **mastering Power BI and contributing to real-world ML projects**  
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/jitendra-kumar-singh)  
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/JitendraSingh091?tab=repositories)  
 - 📜 I plan to write soon on **Medium and LinkedIn** about data science and tech tips  
 - 💬 Ask me about: **Python basics, data cleaning, Power BI dashboards, Excel automation**  
 - 📧 Reach me at: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
@@ -66,20 +66,20 @@
  
 ### 🏆 GitHub Stats 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=jitendra-kumar-singh&theme=algolia&no-bg=true" alt="Trophies" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=algolia&no-bg=true" alt="Trophies" /> 
 </p> 
- 
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jitendra-kumar-singh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSingh091&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
 </p> 
- 
+
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-kumar-singh&theme=dark" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSingh091&theme=dark" alt="GitHub Streak" /> 
 </p> 
- 
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendra-kumar-singh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> 
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JitendraSingh091&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> 
+</p>
  
 --- 
  
