@@ -74,9 +74,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JitendraSingh091&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JitendraSingh091&theme=dark&hide_border=false)
+
  
 --- 
  
