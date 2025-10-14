@@ -74,18 +74,25 @@
 ![](https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSingh091&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
+</p> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitendraSingh091&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSingh091&theme=dark" alt="GitHub Streak" /> 
+</p> 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JitendraSingh091&theme=dark&hide_border=false)
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JitendraSingh091&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> 
+</p>
  
 --- 
  
 <p align="center"> 
- ### 🔝 Top Contributed Repo
+ 
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JitendraSingh091&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
   <i>Made with ❤️ by Jitendra Kumar Singh</i> 
 </p>
