@@ -23,7 +23,7 @@
 - 📜 I plan to write soon on **Medium and LinkedIn** about data science and tech tips  
 - 💬 Ask me about: **Python basics, data cleaning, Power BI dashboards, Excel automation**  
 - 📧 Reach me at: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
-- 📄 Know more: I'm a **B.tech(CSE) student at Vivekananda Global University, Jaipur** with strong interest in **Python, data Science & ML**  
+- 📄 Know more: I'm a **B.tech(CSE) student at Vivekananda Global University, Jaipur** with strong interest in **Python, Data Science & ML**  
 - ✨ Fun fact: **I love turning boring Excel sheets into Power BI dashboards & often talk to AI like Jarvis 🤖**  
  
 --- 
@@ -63,11 +63,16 @@
 </p> 
  
 --- 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
  
-### 🏆 GitHub Stats 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=algolia&no-bg=true" alt="Trophies" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=JitendraSingh091&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> 
