@@ -71,7 +71,7 @@
 </div>
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JitendraSingh091&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <p align="center"> 
@@ -89,5 +89,8 @@
 --- 
  
 <p align="center"> 
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JitendraSingh091&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
   <i>Made with ❤️ by Jitendra Kumar Singh</i> 
 </p>
