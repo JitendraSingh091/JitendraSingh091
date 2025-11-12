@@ -89,10 +89,6 @@
 --- 
  
 <p align="center"> 
- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JitendraSingh091&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
   <i>Made with ❤️ by Jitendra Kumar Singh</i> 
 </p>
