@@ -1,7 +1,7 @@
 <!-- README.md --> 
  
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Singh</h1> 
-<h3 align="center">CSE undergraduate | C++ | Graphic designer | Front-end developer</h3> 
+<h3 align="center">CSE undergraduate | Data Science | C/C++ | Front-end developer</h3> 
  
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding animation" /> 
@@ -15,16 +15,20 @@
  
 ### 🌟 About Me 
  
-- 🌟 I’m currently working on **Front-end developer** to improve my skills and contribute to open-source.  
-- 🌱 I’m currently learning **Python, Data Science, Power BI, Machine Learning, Git & GitHub**  
-- 👥 I’m looking to collaborate on **Machine Learning and Python-based mini projects**  
-- ✍️ I’m looking for help with **mastering Power BI and contributing to real-world ML projects**  
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/JitendraSingh091?tab=repositories)  
-- 📜 I plan to write soon on **Medium and LinkedIn** about data science and tech tips  
-- 💬 Ask me about: **Python basics, data cleaning, Power BI dashboards, Excel automation**  
-- 📧 Reach me at: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
-- 📄 Know more: I'm a **B.tech(CSE) student at Vivekananda Global University, Jaipur** with strong interest in **Python, Data Science & ML**  
-- ✨ Fun fact: **I love turning boring Excel sheets into Power BI dashboards & often talk to AI like Jarvis 🤖**  
+# 👋 Hi, I'm Jitendra Singh
+
+## 🚀 About Me
+
+* 📊 Passionate about building a career in **Data Science** and solving real-world problems using data-driven solutions.
+* 🌱 Currently learning **Python, Data Science, Machine Learning, Power BI, SQL, and Data Analytics**.
+* 🤝 Open to collaborating on **Data Science, Machine Learning, and Python-based projects**.
+* 📚 Continuously improving my skills in **Data Analysis, Data Visualization, and Predictive Modeling**.
+* 💻 Explore my projects on GitHub: github.com/JitendraSingh091
+* ✍️ Interested in sharing knowledge about **Data Science, Machine Learning, and Tech** on LinkedIn and Medium.
+* 💬 Ask me about **Python, Data Cleaning, Power BI Dashboards, Excel Automation, and Machine Learning Basics**.
+* 🎓 Pursuing **B.Tech in Computer Science Engineering** at **Vivekananda Global University, Jaipur**.
+* 🔍 Strong interest in **Artificial Intelligence, Machine Learning, and Data-Driven Decision Making**.
+* ⚡ Fun Fact: I enjoy turning raw data into meaningful insights and building dashboards that tell stories with data.
  
 --- 
  
