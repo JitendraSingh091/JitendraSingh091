@@ -16,7 +16,7 @@
 
 <br/>
 
-📍 India  •  🎯 Preparing for Data Science & AI/ML Opportunities
+📍 India  •  🎯 Preparing for Data Science & AI/ML Opportunities 
 
 <br/><br/>
 
